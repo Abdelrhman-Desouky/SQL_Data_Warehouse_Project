@@ -12,8 +12,9 @@ GO
 -- Create DB
 Create Database DataWarehouse;
 GO
+	-- Createt Schemas
 use DataWarehouse;
--- Createt Schemas
+GO
 Create Schema bronze;
 GO
 Create Schema silver;
