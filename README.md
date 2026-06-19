@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+# Data Warehouse Project
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
